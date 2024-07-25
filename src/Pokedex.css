@@ -1,0 +1,9 @@
+.Pokedex {
+    text-align: center;
+    margin: 10px 10%;
+}
+
+.Pokedex-title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
